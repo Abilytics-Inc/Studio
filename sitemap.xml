@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://studio.abilytics.com/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://studio.abilytics.com/features</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://studio.abilytics.com/how-it-works</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://studio.abilytics.com/use-cases</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://studio.abilytics.com/faq</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://studio.abilytics.com/demo</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://studio.abilytics.com/privacy</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://studio.abilytics.com/security</loc>
+    <priority>0.5</priority>
+  </url>
+</urlset>

@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: 
 
-Sitemap: https://abilytics.Studios/sitemap.xml
+Sitemap: /sitemap.xml
